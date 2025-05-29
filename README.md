@@ -39,4 +39,4 @@ src/
 - Documentación con JSDoc
 
 ## 📝 Licencia
-MIT © [Alexis Alonzo] - [Ver LICENSE](LICENSE)
+MIT © Alexis Alonzo - [Ver LICENSE](LICENSE)
