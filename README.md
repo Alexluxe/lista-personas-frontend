@@ -19,7 +19,7 @@ Aplicación que genera perfiles aleatorios consumiendo la API [Random User](http
 
 ## 🚀 Cómo ejecutar
 ```bash
-git clone https://github.com/tu-usuario/lista-personas-frontend.git
+git clone https://github.com/Alexluxe/lista-personas-frontend.git
 cd lista-personas-frontend
 # Abrir src/index.html en navegador
 ```
